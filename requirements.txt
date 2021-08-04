@@ -1,1 +1,1 @@
-datadog-custom-logger==1.0.0
+datadog-custom-logger==1.1.1
