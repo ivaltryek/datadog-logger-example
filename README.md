@@ -36,4 +36,4 @@ Datadog Custom Logger example
   #Windows
   python runtests.py
   ```
-> 💡 Please add your datadog API key in set_envs.py to connect with datadog and only then your logs will be sent to datadogs
+> 💡 1Please add your datadog API key in set_envs.py to connect with datadog and only then your logs will be sent to datadogs
